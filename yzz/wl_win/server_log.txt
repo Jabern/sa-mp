@@ -1,0 +1,148 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c, (C)2005-2010 SA-MP Team
+
+[09:53:31] 
+[09:53:31] Server Plugins
+[09:53:31] --------------
+[09:53:31]  Loading plugin: NPatcher
+[09:53:31]   > 0x401000 : Size=0xB4000, Searching code...
+[09:53:31]   > NamePatcher by MK124 and H.Armor (aka. Horse.A).
+[09:53:31]   Loaded.
+[09:53:31]  Loading plugin: gvar
+[09:53:31] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[09:53:31]   Loaded.
+[09:53:31]  Loading plugin: streamer
+[09:53:31] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[09:53:31]   Loaded.
+[09:53:31]  Loading plugin: GeoIP_Plugin
+[09:53:31] Error loading GeoIP_Plugin.
+[09:53:31]   Failed.
+[09:53:31]  Loading plugin: fileExt
+[09:53:31] 
+ * Shindo's extended file function plugin loaded.
+
+[09:53:31]   Loaded.
+[09:53:31]  Loaded 4 plugins.
+
+[09:53:31] 
+[09:53:31] Ban list
+[09:53:31] --------
+[09:53:31]  Loaded: samp.ban
+[09:53:31] 
+[09:53:31] 
+[09:53:31] Filter Scripts
+[09:53:31] ---------------
+[09:53:31]   Loading filter script 'wl/wl_base.amx'...
+[09:53:31] 3-2282864
+[09:53:31]   Loading filter script 'sadmin.amx'...
+[09:53:31] <|-----------------------------------------|>
+[09:53:31]  |  .: [  - SeifAdmin Script by Seif -  ] :.  |
+[09:53:31] <|-----------------------------------------|>
+[09:53:31]   Loading filter script 'gcs_ini.amx'...
+[09:53:31]  [gini]loaded
+[09:53:31]   Loaded 3 filter scripts.
+
+[09:53:32] [wl]language loaded.
+[09:53:32]  动态物件(object)载入成功,数量:1454
+[09:53:32]  Class model loaded successfully, amount: 278
+[09:53:32]  广播Warning载入成功,数量:15
+[09:53:32]  广播Tip载入成功,数量:14
+[09:53:32]  广播Study载入成功,数量:33
+[09:53:32]  [赛车]赛道载入成功,数量:356
+[09:53:32]  交通工具载入成功,数量:117
+[09:53:32]  [大战城]帮派载入成功,数量:12
+[09:53:32]  [大战城]地盘载入成功,数量:130
+[09:53:32] 
+
+====== [ Teleports Manager filterscript v0.2 ]  ======
+
+[09:53:32]   Programmer: Amit Barami "Amit_B"
+[09:53:32]   Creation Date: 19/1/2008
+[09:53:32]   Version: 1.0
+[09:53:32]   Compatibility: SanAndreas:MultiPlayer 0.2.2
+[09:53:33]  玩家自制作传送命令载入成功,数量:18580.
+[09:53:33]   Teleports Manager filterscript *Loaded*!
+[09:53:33] 
+======================================================
+
+[09:53:33]   Filterscript 'tele.amx' loaded.
+[09:53:33] ====Spectate system loaded successfully.====
+[09:53:33]   Filterscript 'spectate.amx' loaded.
+[09:53:33]   Filterscript 'Seifanims.amx' loaded.
+[09:53:33]   Filterscript 'drift.amx' loaded.
+[09:53:33]   Filterscript 'tunecar.amx' loaded.
+[09:53:33] 1-2285096
+[09:53:33] ===============================================================================
+[09:53:33]   GameMode:wl
+[09:53:33]   Version: 0.6.8.1
+[09:53:33]   Build:   201101161700
+[09:53:33]   Contributors(Alphabetical order):
+[09:53:33]     FGJin, fly_luck,  [ITC]dyq  [ITC]fangye  [ITC]Super_wlc  [ITC]RR_LXD
+[09:53:33]     mk124  Shindo(aka. ssh)  vvg, yezizhu(aka. yzz)
+[09:53:33]   This is a part of OpenGTA project, visit www.opengta.org for more info.
+[09:53:33]   Contact us: imyezizhu@opengta.org
+[09:53:33]   Copyright: yezizhu & GCS Team
+[09:53:33] ===============================================================================
+[09:53:33] Number of vehicle models: 73
+Console input: reloadfs ledou
+[09:53:34]   Filter script 'ledou.amx' unload failed.
+[09:53:34] ledou process has started.
+[09:53:34]   Filterscript 'ledou.amx' loaded.
+[09:53:36] type:1 accountindex:0 clientindex:0
+[09:53:36] qzapp.z.qq.com/qpet/cgi-bin/phonepk?cmd=index&zapp_sid=ewSetAf/gn8j3tHCfGnPzg==&zapp_uin=1824944908
+[09:53:37] type:2 accountindex:0 clientindex:1
+[09:53:37] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1824944908&zapp_sid=ewSetAf/gn8j3tHCfGnPzg==&cmd=fight&B_UID=1824944908&page=
+[09:53:38] type:2 accountindex:0 clientindex:2
+[09:53:38] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1824944908&zapp_sid=ewSetAf/gn8j3tHCfGnPzg==&cmd=fight&B_UID=7&page=
+[09:53:38] type:2 accountindex:0 clientindex:3
+[09:53:38] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1824944908&zapp_sid=ewSetAf/gn8j3tHCfGnPzg==&cmd=fight&B_UID=917736653&page=
+[09:53:39] type:2 accountindex:0 clientindex:4
+[09:53:39] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1824944908&zapp_sid=ewSetAf/gn8j3tHCfGnPzg==&cmd=fight&B_UID=346265676&page=
+[09:53:40] type:2 accountindex:0 clientindex:5
+[09:53:40] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1824944908&zapp_sid=ewSetAf/gn8j3tHCfGnPzg==&cmd=fight&B_UID=445605449&page=
+[09:53:41] type:2 accountindex:0 clientindex:6
+[09:53:41] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1824944908&zapp_sid=ewSetAf/gn8j3tHCfGnPzg==&cmd=fight&B_UID=121547921&page=
+[09:53:41] type:1 accountindex:1 clientindex:0
+[09:53:41] qzapp.z.qq.com/qpet/cgi-bin/phonepk?cmd=index&zapp_sid=dIx/ePhDEzg1X0WNgCpsIA==&zapp_uin=1826486432
+[09:53:42] type:2 accountindex:1 clientindex:1
+[09:53:42] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1826486432&zapp_sid=dIx/ePhDEzg1X0WNgCpsIA==&cmd=fight&B_UID=1826486432&page=
+[09:53:43] type:2 accountindex:1 clientindex:2
+[09:53:43] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1826486432&zapp_sid=dIx/ePhDEzg1X0WNgCpsIA==&cmd=fight&B_UID=7&page=
+[09:53:43] type:2 accountindex:1 clientindex:3
+[09:53:43] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1826486432&zapp_sid=dIx/ePhDEzg1X0WNgCpsIA==&cmd=fight&B_UID=917736653&page=
+[09:53:44] type:2 accountindex:1 clientindex:4
+[09:53:44] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1826486432&zapp_sid=dIx/ePhDEzg1X0WNgCpsIA==&cmd=fight&B_UID=346265676&page=
+[09:53:45] type:2 accountindex:1 clientindex:5
+[09:53:45] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1826486432&zapp_sid=dIx/ePhDEzg1X0WNgCpsIA==&cmd=fight&B_UID=445605449&page=
+[09:53:45] type:2 accountindex:1 clientindex:6
+[09:53:45] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1826486432&zapp_sid=dIx/ePhDEzg1X0WNgCpsIA==&cmd=fight&B_UID=121547921&page=
+[09:53:46] type:1 accountindex:2 clientindex:0
+[09:53:46] qzapp.z.qq.com/qpet/cgi-bin/phonepk?cmd=index&zapp_sid=vx9Dsm97ATyPT2%20lx%20roeA==&zapp_uin=1781576837
+[09:53:47] type:2 accountindex:2 clientindex:1
+[09:53:47] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1781576837&zapp_sid=vx9Dsm97ATyPT2%20lx%20roeA==&cmd=fight&B_UID=1781576837&page=
+[09:53:48] type:2 accountindex:2 clientindex:2
+[09:53:48] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1781576837&zapp_sid=vx9Dsm97ATyPT2%20lx%20roeA==&cmd=fight&B_UID=7&page=
+[09:53:48] type:2 accountindex:2 clientindex:3
+[09:53:48] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1781576837&zapp_sid=vx9Dsm97ATyPT2%20lx%20roeA==&cmd=fight&B_UID=917736653&page=
+[09:53:49] type:2 accountindex:2 clientindex:4
+[09:53:49] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1781576837&zapp_sid=vx9Dsm97ATyPT2%20lx%20roeA==&cmd=fight&B_UID=346265676&page=
+[09:53:50] type:2 accountindex:2 clientindex:5
+[09:53:50] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1781576837&zapp_sid=vx9Dsm97ATyPT2%20lx%20roeA==&cmd=fight&B_UID=445605449&page=
+[09:53:50] type:2 accountindex:2 clientindex:6
+[09:53:50] qzapp.z.qq.com/qpet/cgi-bin/phonepk?zapp_uin=1781576837&zapp_sid=vx9Dsm97ATyPT2%20lx%20roeA==&cmd=fight&B_UID=121547921&page=
+[09:53:50] ledou process has finished, unload ledou.amx within 60seconds
+[09:57:21] type:3 accountindex:3 clientindex:0
+[09:57:21] ledou process has ended.
+[09:57:21]   Filterscript 'ledou.amx' unloaded.
