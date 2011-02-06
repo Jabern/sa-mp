@@ -227,7 +227,7 @@ static cell AMX_NATIVE_CALL n_Ext_fclose( AMX* amx, cell* params )
 // 1 - the directory exists.
 bool Ext_dexist(char *dName)
 {
-	if (access(dName, 0) != -1)
+	if (_access(dName, 0) != -1)
 		return 1;
 	else
 		return 0;
